@@ -1,0 +1,16 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #0b0b0b;
+  color: #ddd;
+  text-align: center;
+}
+
+.panel {
+  margin: 2em auto;
+  max-width: 900px;
+}
+
+img, video {
+  width: 100%;
+  border-radius: 6px;
+}
